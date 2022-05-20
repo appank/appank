@@ -5,7 +5,7 @@
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="Mysql" width="21px" src="https://user-images.githubusercontent.com/102719362/169458569-c88fabcd-b9c1-4548-9004-02cd2e2033ca.png" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="Flutter" width="21px" src="https://user-images.githubusercontent.com/102719362/169458697-112045cb-8a6d-4161-ae58-11c294ac0562.png" />
+  <a href="#"><img align="left" alt="NodeJS" title="Flutter" width="21px" src="https://user-images.githubusercontent.com/102719362/169458697-112045cb-8a6d-4161-ae58-11c294ac0562.png" />
   <br>
   
   ### Software Mastered
