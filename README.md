@@ -1,5 +1,5 @@
 ### Halo Semua 👋
-   Perkenalkan Nama Saya Baso Arfan Efendy biasa di pannggil Appang, Fresh Graduate yang lulus dari Universitas Dipa Makassar dengan jurusan Teknik Informatika. memahami beberapa bahasa pemrograman, menyukai sebuah tantangan, serta memiliki  ketelitian, motivasi yang sangat baik  untuk  bekerja dalam tim maupun individu. memiliki keinginan yang kuat untuk meninkatkan skill di semua bidang yang dikerjakan
+   Perkenalkan Nama Saya Baso Arfan Efendy biasa di pannggil Appang, Fresh Graduate yang lulus dari <a href="https://undipa.ac.id/">Universitas Dipa Makassar</a> dengan jurusan Teknik Informatika. memahami beberapa bahasa pemrograman, menyukai sebuah tantangan, serta memiliki  ketelitian, motivasi yang sangat baik  untuk  bekerja dalam tim maupun individu. memiliki keinginan yang kuat untuk meninkatkan skill di semua bidang yang dikerjakan
 
    Saat ini saya aktif berkontribusi sebagai Pengembang Aplikasi Android dan memulai untuk membuat Koneten di Channel <a href="https://www.youtube.com/channel/UCfo6aa58rxDGz2eU2cZT1Lw">Youtube</a> saya 
 
@@ -22,9 +22,9 @@
   <br>
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/appank">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=appank&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
 </a>
 </p>
 
