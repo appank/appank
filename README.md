@@ -1,8 +1,6 @@
 ### Halo Semua 👋
    Fresh Graduate yang lulus dari <a href="https://undipa.ac.id/">Universitas Dipa Makassar</a> dengan jurusan Teknik Informatika. memahami beberapa bahasa pemrograman, menyukai sebuah tantangan, serta memiliki  ketelitian, motivasi yang sangat baik  untuk  bekerja dalam tim maupun individu. memiliki keinginan yang kuat untuk meninkatkan skill di semua bidang yang dikerjakan
 
-   Saat ini saya aktif berkontribusi sebagai Pengembang Aplikasi Android dan memulai untuk membuat Koneten di Channel <a href="https://www.youtube.com/channel/UCfo6aa58rxDGz2eU2cZT1Lw">Youtube</a>
-
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="Mysql" width="21px" src="https://user-images.githubusercontent.com/102719362/169458569-c88fabcd-b9c1-4548-9004-02cd2e2033ca.png" /></a>
   <a href="#"><img align="left" alt="NodeJS" title="Flutter" width="21px" src="https://user-images.githubusercontent.com/102719362/169458697-112045cb-8a6d-4161-ae58-11c294ac0562.png" />
