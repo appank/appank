@@ -1,4 +1,4 @@
-### Halo Semua 👋
+### Hi! 👋 I'm BASO ARFAN EFENDY.
    Fresh Graduate yang lulus dari <a href="https://undipa.ac.id/">Universitas Dipa Makassar</a> dengan jurusan Teknik Informatika. memahami beberapa bahasa pemrograman, menyukai sebuah tantangan, serta memiliki  ketelitian, motivasi yang sangat baik  untuk  bekerja dalam tim maupun individu. memiliki keinginan yang kuat untuk meninkatkan skill di semua bidang yang dikerjakan
 
 ### Tech Stack
