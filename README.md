@@ -10,7 +10,7 @@
   <a href="#"><img align="left" alt="Flutter" title="Flutter" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/ef59ea8e2bba5848a8f471f94b24f55289c86476/public/logos/technology/flutter/flutter.svg" />
   <a href="#"><img align="left" alt="Supabase" title="Supabase" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/bc82276a7ea47630ae52edd6137e58da18cfedce/public/logos/technology/supabase/supabase.svg" />
   <a href="#"><img align="left" alt="Laravel" title="Laravel" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/849de1a8f0fc01ef1a8512026f92807d77c9aafc/public/logos/technology/laravel/laravel.svg" />
-  <a href="#"><img align="left" alt="PHP" title="PHP" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/849de1a8f0fc01ef1a8512026f92807d77c9aafc/public/logos/technology/php/php.svg" />
+  <a href="#"><img align="left" alt="PHP" title="PHP" height="35px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/849de1a8f0fc01ef1a8512026f92807d77c9aafc/public/logos/technology/php/php.svg" />
   <a href="#"><img align="left" alt="HTML" title="HTML" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/849de1a8f0fc01ef1a8512026f92807d77c9aafc/public/logos/technology/html/html.svg" />
   <a href="#"><img align="left" alt="JavaScript" title="Mysql" height="48px" src="https://user-images.githubusercontent.com/102719362/169458569-c88fabcd-b9c1-4548-9004-02cd2e2033ca.png" />
   <br>
