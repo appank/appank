@@ -22,12 +22,6 @@
 </a>
 </p>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/baso-arfan-efendy-2570111b3">LinkedIn</a>
-- <a href="https://web.facebook.com/appank.dev">Facebook</a>
-- <a href="https://www.instagram.com/baso_arfan_efendy">Instagram</a>
-- <a href="https://twitter.com/EfendyBaso">Twitter</a>
-- <a href="https://www.youtube.com/channel/UCUUu2OLHWBuovJYGiACsfuQ/featured">Youtube</a>
 
 ### Website
 - <a href="https://appankdev.vercel.app/">appankdev.vircel.app</a>
