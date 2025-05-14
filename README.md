@@ -4,6 +4,7 @@
 ### Tech Stack
   <a href="#"><img align="left" alt="React" title="React" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/ef59ea8e2bba5848a8f471f94b24f55289c86476/public/logos/technology/react/react.svg" />
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/ef59ea8e2bba5848a8f471f94b24f55289c86476/public/logos/technology/javascript/javascript.svg" />
+  <a href="#"><img align="left" alt="ChakraUi" title="ChakraUI" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/849de1a8f0fc01ef1a8512026f92807d77c9aafc/public/logos/technology/chakraui/chakraui.svg" />
   <a href="#"><img align="left" alt="Firebase" title="Firebase" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/ef59ea8e2bba5848a8f471f94b24f55289c86476/public/logos/technology/firebase/firebase.svg" />
   <a href="#"><img align="left" alt="Java" title="Java" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/ef59ea8e2bba5848a8f471f94b24f55289c86476/public/logos/technology/java/java.svg" />
   <a href="#"><img align="left" alt="Dart" title="Dart" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/ef59ea8e2bba5848a8f471f94b24f55289c86476/public/logos/technology/dart/dart.svg" />
