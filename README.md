@@ -30,5 +30,5 @@
 - <a href="https://www.youtube.com/channel/UCUUu2OLHWBuovJYGiACsfuQ/featured">Youtube</a>
 
 ### Website
-- <a href="https://basoarfan.my.id/">basoarfan.my.id</a>
+- <a href="https://appankdev.vercel.app/">appankdev.vircel.app</a>
 
