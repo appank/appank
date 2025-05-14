@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm BASO ARFAN EFENDY.
-   Fresh Graduate yang lulus dari <a href="https://undipa.ac.id/">Universitas Dipa Makassar</a> dengan jurusan Teknik Informatika. memahami beberapa bahasa pemrograman, menyukai sebuah tantangan, serta memiliki  ketelitian, motivasi yang sangat baik  untuk  bekerja dalam tim maupun individu. memiliki keinginan yang kuat untuk meninkatkan skill di semua bidang yang dikerjakan
+   Seorang Programmer dan UI/UX Design lulusan Teknik Informatika Universitas Dipa Makassar. Mahir dalam pengembangan aplikasi Android dan Website menggunakan Flutter dan React, serta berpengalaman dalam merancang desain UI/UX yang efisien dan user-friendly. Terampil menggunakan alat desain seperti Figma untuk menciptakan aplikasi yang mudah diakses dan menyenangkan bagi pengguna.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="Mysql" width="21px" src="https://user-images.githubusercontent.com/102719362/169458569-c88fabcd-b9c1-4548-9004-02cd2e2033ca.png" /></a>
