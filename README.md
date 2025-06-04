@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm BASO ARFAN EFENDY.
-   Seorang Programmer dan UI/UX Design lulusan Teknik Informatika Universitas Dipa Makassar. Mahir dalam pengembangan aplikasi Android dan Website menggunakan Flutter dan React, serta berpengalaman dalam merancang desain UI/UX yang efisien dan user-friendly. Terampil menggunakan alat desain seperti Figma untuk menciptakan aplikasi yang mudah diakses dan menyenangkan bagi pengguna.
+  
 
 ### Tech Stack
   <a href="#"><img align="left" alt="React" title="React" height="48px" src="https://raw.githubusercontent.com/dheereshagrwal/coloured-icons/ef59ea8e2bba5848a8f471f94b24f55289c86476/public/logos/technology/react/react.svg" />
